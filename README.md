@@ -34,6 +34,11 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie." Morgan wi
 ![html-files](images/Html-files-created.png)
 
 2. I added content to each files
+
+
 3. I now staged and commited and then pushed to my github account
+
+![Documentation](images/Documentation.png)
+
 
 ![github-files](images/github-files.png) 
