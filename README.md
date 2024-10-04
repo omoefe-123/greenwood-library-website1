@@ -43,7 +43,7 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie." Morgan wi
 
 ![github-files](images/github-files.png)
 
-# Morgan s WOrk
+## Morgan`s Work
 1. I created a branch named add-book-reviews
 2. I then added a file called book_reviews.html and added a content to it
 3. Then i staged, commit and push with a message "Add book reviews section"
@@ -51,11 +51,12 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie." Morgan wi
 
 ![Morgan-work](images/Morgans-work.jpg)
 
-# Jamie s Work
+## Jamie`s Work
 1. I created a branch named update-events
 2. Then i created process_documentation.txt file and added a content to it
 3. I then staged, commit and push to github
 
 ![Jamie-work](images/Jamie-work.jpg)
 
-
+## final github files
+![final-files](images/finanl-github-files.jpg)
