@@ -56,3 +56,6 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie." Morgan wi
 2. Then i created process_documentation.txt file and added a content to it
 3. I then staged, commit and push to github
 
+![Jamie-work](images/Jamie-work.jpg)
+
+
