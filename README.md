@@ -43,11 +43,13 @@ You will simulate the roles of two contributors: "Morgan" and "Jamie." Morgan wi
 
 ![github-files](images/github-files.png)
 
-# Morgan s WOork
+# Morgan s WOrk
 1. I created a branch named add-book-reviews
 2. I then added a file called book_reviews.html and added a content to it
 3. Then i staged, commit and push with a message "Add book reviews section"
 4. And i pushed the add-book-reviews to github
+
+![Morgan-work](images/Morgans-work.jpg)
 
 # Jamie s Work
 1. I created a branch named update-events
